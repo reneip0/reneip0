@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reneip0
+- 👋 Hi, I’m @rene
 
 <!---
 reneip0/reneip0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
